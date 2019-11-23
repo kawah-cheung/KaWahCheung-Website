@@ -1,6 +1,15 @@
+# My Personal Website(Markdown)
 
-# Welcome to LearnCS8 Resume Website
+My name is Ka Wah Cheung, I am a **2nd** year student in Graduate School of Education of University of California, Riverside. Originally from HongKong.
 
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
 
-Special thanks to the open source bootstrap libraries that made this website possible. 
+# My Story about Computer Science
+
+In the first lesson when I go in computer science, I knew nothing about coding, not even having a clue of it. I just think coding is just typing a bunch of random codes into a computer then it comes to an app or games. But when I get into it and start knowing about it, it just blows my mind, like my mind is just… totally blown away. It was too shocking for me since I can’t think of how a little program needs so much coding, I use to think everything is just simple programing that just simply need to put a lot of pictures together like Microsoft Powerpoint then just link a button so when people click it goes to elsewhere, but after I learn an about coding, I learned about even pictures are just a million of letters to form a pixel, and that a picture is million, and up to even billion of pixels. I just cannot imagine the technology that people use these days are based on and created by these people from a few decades ago and then they just keep getting better and better.
+        <br>  Since then, I started digging down for deeper research into those nerdy computer science stuff and chasing the trend after it. That was my age of 13, I have a friend working in a gaming company called Tencent, and after he learned that I love to play videos, he offered me to join his company’s program that actually teaches teenagers to code games. So, of course, I signed up for it, it was little tough at first, since I only knew about some basic stuff for coding, but after a while, after I cross the line that really helps me from basic coding to advance coding, it started to getting even harder, but even more fun! I learned some c++ language but I learned a lot about python and scratch game coding. I made a Mario-like game from Pythons and I made a Pacman-like game and a flappy bird-like game from Scratch. It was really simple stuff for most of those professional coders out there, but hey, at least I made some games.
+        <br>  After that I started to play a game called Minecraft, yes, that game every kid loves to play. But for me, I don’t really like it that much, because I could only play it myself since all those servers owned by other people on the other sides are laggy and have a lot of annoying players. So I thought, why don’t I just start a server myself so my friends and I can play in it however we want. Then I used all my money to lease a small server for about 400rmb per month, that’s about 65 US dollars at that time. So I got it, I downloaded a Linux system and use java to open up the Minecraft as a bukkit server, it sounds little complicated but it really just some simple click and few lines of coding, what’s hard is getting it into action and I finished that part already before I lease the server.
+        <br><br>
+
+# Personal Website
+
+![Description of Image](img/yourimage.JPG)
